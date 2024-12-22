@@ -9,5 +9,5 @@ import { InterpolacionComponent } from "./interpolacion/interpolacion.component"
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'ejercicio14';
+  title = 'ejercicio13';
 }
